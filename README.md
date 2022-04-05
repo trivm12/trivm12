@@ -1,6 +1,5 @@
 <!-- <a href=#><img width="40%" height="auto" src="https://i.imgur.com/wHuyaZx.png" height="175px"/></a> -->
 
-<div id="header" align="center">
 <h1 align="center"><b>Hi guys, welcome to my profile</b></h1> 
 
 ---
