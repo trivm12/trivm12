@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me 👨‍💻
 
-- 🔭 I’m currently a Computer Science junior at University of Information Technology - Vietnam National University
+- 🔭 I’m currently a Computer Science senior at University of Information Technology - Vietnam National University
 
 - 🌱 Learning Computer Science
 
