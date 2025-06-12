@@ -6,13 +6,11 @@
 
 ### 👨‍💻 About me 👨‍💻
 
-- 🔭 I’m currently a Computer Science senior at University of Information Technology - Vietnam National University
+- 🔭 I’m a fresh graduate at University of Information Technology - Vietnam National University; Bachelor of Science
 
-- 🌱 Learning Computer Science
+- 🌱 Learning for driver license
 
 - 🤴 Pronouns: He / him
-
-- ⚡ In my free time, I play games. 🐧
 
 - 😆 Fun fact: Did you know a duck and a rooster were the first passengers in a hot air baloon?
 
